@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi 👋, I'm Uttam Vardam — a data-driven professional passionate about transforming raw information into meaningful insights.
 
-<!--
-**uttamvardam/UttamVardam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1408" height="736" alt="Gemini_Generated_Image_pni1cipni1cipni1" src="https://github.com/user-attachments/assets/0e923916-74e9-4741-aece-c19ae600232b" />
+
 
 Here are some ideas to get you started:
 
