@@ -14,7 +14,7 @@
 - 📬 Reach me at: **uttamvardam@gmail.com**
 - 📂 Explore all of my **projects** at the [link](https://codebasics.io/portfolio/UTTAM-RAMESH-VARDAM)
 - 📄 Know about my **experiences** at the link.
-- ⚡ Fun fact **Data analysts bridge the gap between raw data and smart decisions**.
+- ⚡ Fun fact  **Data analysts bridge the gap between raw data and smart decisions**.
 
 
 <h2>Tools and Technologies I Utilize ⚙️</h2>
