@@ -17,11 +17,6 @@
 - ⚡ Data analysts bridge the gap between **raw data and smart decisions**.
 
 
-## Connect with me 🤝
-<a href="www.linkedin.com/in/uttam-vardam-9666a9254" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-
-
 <h2>Tools and Technologies I Utilize ⚙️</h2>
 
 <p>
@@ -38,3 +33,6 @@
   <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60"/>
 
 
+## Connect with me 🤝
+<a href="www.linkedin.com/in/uttam-vardam-9666a9254" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
