@@ -14,6 +14,6 @@
 - 🪴 Proficient in **SQL, Power BI, Python, and Advanced Excel** to deliver meaningful insights.
 - 💼 Actively seeking a **full-time** opportunity as a Data Analyst.
 - 📬 Reach me at: **uttamvardam@gmail.com**
-- 📂 Explore all of my **projects** at the link below.
+- 📂 Explore all of my **projects** at the [link](https://codebasics.io/portfolio/UTTAM-RAMESH-VARDAM)
 - 📄 Know about my **experiences** at the link.
 - ⚡ Data analysts bridge the gap between **raw data and smart decisions**.
