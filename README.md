@@ -8,8 +8,6 @@
 ## <h2 align="center"> Turning complex data into powerful insights that drive success.</h2>
 
 
-
-
 - 👀 I’m driven by a strong interest in **Data Analytics** and **problem-solving**.
 - 🪴 Proficient in **SQL, Power BI, Python, and Advanced Excel** to deliver meaningful insights.
 - 💼 Actively seeking a **full-time** opportunity as a Data Analyst.
@@ -19,7 +17,18 @@
 - ⚡ Data analysts bridge the gap between **raw data and smart decisions**.
 
 
-
 ## Connect with me 🤝
 <a href="www.linkedin.com/in/uttam-vardam-9666a9254" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+
+
+## Tools and Technologies I Utilize ⚙️
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+  <img src="https://skillicons.dev/icons?i=python" width="55"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" width="55"/>
+  <img src="https://skillicons.dev/icons?i=excel" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+</p>
+
