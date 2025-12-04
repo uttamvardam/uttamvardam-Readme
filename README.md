@@ -17,3 +17,8 @@
 - 📂 Explore all of my **projects** at the [link](https://codebasics.io/portfolio/UTTAM-RAMESH-VARDAM)
 - 📄 Know about my **experiences** at the link.
 - ⚡ Data analysts bridge the gap between **raw data and smart decisions**.
+
+
+
+## Connect with me 🤝
+www.linkedin.com/in/uttam-vardam-9666a9254
