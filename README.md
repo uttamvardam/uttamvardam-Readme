@@ -21,4 +21,5 @@
 
 
 ## Connect with me 🤝
-(www.linkedin.com/in/uttam-vardam-9666a9254)
+<a href="www.linkedin.com/in/uttam-vardam-9666a9254" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
