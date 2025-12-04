@@ -8,14 +8,89 @@
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+👀 I’m driven by a strong interest in Data Analytics and problem-solving.
+
+🌱 Proficient in SQL, Power BI, Python, and Advanced Excel to deliver meaningful insights.
+
+💞️ Actively seeking a full-time opportunity as a Data Analyst.
+
+📫 Reach me at: uttamvardam@gmail.com
+
+👨‍💻 Explore all of my projects at the link below.
+
+📄 Know about my Experiences Link
+
+⚡ Fun fact Data analysts are often called "Data Detectives" because they uncover insights by investigating patterns and trends in data.
