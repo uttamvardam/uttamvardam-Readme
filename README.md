@@ -24,11 +24,10 @@
 
 ## Tools and Technologies I Utilize ⚙️
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-  <img src="https://skillicons.dev/icons?i=python" width="55"/>
-  <img src="https://skillicons.dev/icons?i=powerbi" width="55"/>
-  <img src="https://skillicons.dev/icons?i=excel" width="55"/>
-  <img src="https://skillicons.dev/icons?i=github" width="55"/>
-</p>
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Python](https://skillicons.dev/icons?i=python)
+![Power BI](https://skillicons.dev/icons?i=powerbi)
+![Excel](https://skillicons.dev/icons?i=excel)
+![GitHub](https://skillicons.dev/icons?i=github)
+
 
