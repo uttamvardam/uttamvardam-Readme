@@ -1,8 +1,7 @@
 ## Hi 👋, I'm Uttam Vardam — a data-driven professional passionate about transforming raw information into meaningful insights.
 
-<img width="1408" height="736" alt="Gemini_Generated_Image_pni1cipni1cipni1" src="https://github.com/user-attachments/assets/0e923916-74e9-4741-aece-c19ae600232b" />
+<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/e6c3fd30-cf94-4e54-9054-b4e1d95aa6bc" />
 
-<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/33d86eea-e22b-4773-b76b-d5543a9e37a7" />
 
 
 
