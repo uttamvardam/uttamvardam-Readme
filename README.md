@@ -22,12 +22,19 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 
 
-## Tools and Technologies I Utilize ⚙️
+<h2>Tools and Technologies I Utilize ⚙️</h2>
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Python](https://skillicons.dev/icons?i=python)
-![Power BI](https://skillicons.dev/icons?i=powerbi)
-![Excel](https://skillicons.dev/icons?i=excel)
-![GitHub](https://skillicons.dev/icons?i=github)
+<p>
+  <!-- Latest MySQL Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+
+  <!-- Power BI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>
+
+  <!-- Excel -->
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="60"/>
 
 
